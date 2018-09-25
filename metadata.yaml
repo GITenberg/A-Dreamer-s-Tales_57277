@@ -1,0 +1,31 @@
+_repo: A-Dreamer-s-Tales_57277
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sime, S. H.
+    gutenberg_agent_id: '49291'
+    url: http://www.gutenberg.org/2009/agents/49291
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: ''
+gutenberg_issued: '2018-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Dreamer's Tales
+url: http://www.gutenberg.org/ebooks/57277
